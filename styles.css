@@ -1,0 +1,120 @@
+header {
+    background-color: cadetblue;
+}
+header nav a{
+    text-decoration: none;
+    margin: 15px;
+}
+body {
+    background-color: #f4f4f4;
+}
+footer{
+    background-color: rgb(225, 195, 119);
+}
+
+.logo img {
+    width: 150px;
+}
+nav  {
+    text-align: right;
+    padding: 15px 15px;
+}
+button{
+    font-size: 15px;
+    width: auto;
+    background: cadetblue;
+}
+
+.gmail img{
+    width: 70px;
+    border-radius:90%;
+
+}
+.tiktok img{
+    width: 70px;
+     border-radius: 70%;
+}
+.phone img{
+    width: 70px;
+     border-radius: 70%;
+}
+.facebook img{
+    width: 70px;
+     border-radius: 70%;
+}  
+.gmail a{
+    text-decoration: none;
+}
+.tiktok a{
+  text-decoration: none;  
+}
+.phone a{
+text-decoration: none;
+}
+.facebook{
+    text-decoration: none;
+}
+form input{
+    min-width: 15%;
+    height: 30px;
+}
+header h1{
+    font-size: large;
+    text-shadow: 20px;
+    color: #f4f4f4;
+}
+H1{
+    text-shadow: 10%;
+  color: cadetblue;
+}
+.vidi2 video{
+width: 600px;
+float: right;
+height: 100%;
+object-fit: cover;
+}
+.vidi1 video{
+    width: 600px;
+    min-height: 800px;
+    height: 10px;
+}
+.stock h1{
+    color: cadetblue;
+}
+.image2 img{
+    float: right;
+    width: 600px;
+    position: static;
+    min-height: 100px;
+    display: flex;
+}
+.image1 img{
+width: 600px;
+height: 500%;
+padding-right: 10%;
+}
+.kids img{
+    width: 600px;
+    height:600px;
+}
+h3{
+    color: rgb(202, 161, 58);
+}
+.shoe7 img {
+    width: 500px;
+    float: right;
+    height: 500px;
+    
+}
+.new img {
+    width: 500px;
+    height: 500px;
+}
+header button{
+    padding: 15px 15px;
+    height: 80%;
+    width: 50px;
+}
+@media screen and (max-width: 900px){
+    width: 100%;
+}
